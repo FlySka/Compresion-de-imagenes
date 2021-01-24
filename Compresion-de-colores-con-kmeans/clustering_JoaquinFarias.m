@@ -50,3 +50,5 @@ imagesc(IMG_RECON);
 title('Imagen comprimida');
 
 %imwrite(IMG_RECON,'patron.jpeg','JPEG');
+
+%cambiando cambiando
