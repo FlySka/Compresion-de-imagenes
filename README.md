@@ -12,4 +12,9 @@ Guía de algoritmos típicos de compresión de imágenes con códigos en Matlab.
 
     Extra: Paleta de colores de una imagen obtenida con algoritmo k-means [[Matlab]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-de-colores-con-kmeans/kmeans_paleta_de_colores.m)
 
-* Compresion de imagenes con Singular Value Descompostion (SVD) y recontruccion con Principal Component Analysis(PCA) [[Matlab]]()
+* Compresion de imagenes con Singular Value Descompostion (SVD) y recontruccion con algoritmo Principal Component Analysis(PCA) [[Matlab]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-de-imagenes-SVD%2BPCA/SVD_JoaquinFarias.m).
+
+    Informe sobre proyecto [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-de-imagenes-SVD%2BPCA/infome_SVD%2BPCA_Joaquin%20Farias.pdf).
+    
+    Presentación sobre proyecto [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-de-imagenes-SVD%2BPCA/PPT_SVD%2BPCA_Joaquin%20Farias.pdf).
+
