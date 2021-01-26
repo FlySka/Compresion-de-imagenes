@@ -34,8 +34,8 @@ Guía de algoritmos típicos de compresión de imágenes con códigos en Matlab.
     Presentación sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-imagenes-JPEG/PPT_JPEG_Joaquin%20Farias.pdf)
     
     
-* Compresion de imagenes con transfomada de Wavelets y formato JPEG2000. [[Matlab]]()
+* Compresion de imagenes con transfomada de Wavelets y formato JPEG2000. [[Matlab]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-jpeg2000/Wavelet_JoaquinFarias.m)
     
-    Informe sobre proyecto. [[PDF]]()
+    Informe sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-jpeg2000/Informe_JPEG2000_Joaquin%20Farias.pdf)
     
-    Presentación sobre proyecto. [[PDF]]()
+    Presentación sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-jpeg2000/PPT_JPEG2000_Joaquin%20Farias.pdf)
