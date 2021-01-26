@@ -43,7 +43,7 @@ Guía de algoritmos típicos de compresión de imágenes con códigos en Matlab.
 ### Compressed sensing
 * Ejemplo de comppressed sensing con experimento Single Pixel Camera [[Codigo proximamamente...]]()
     
-    Informe sobre proyecto. [[PDF]]()
+    Informe sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compressed-Sensing-SPC/Informe_SinglePixelCamera_Joaquin%20Farias.pdf)
     
-    Presentación sobre proyecto. [[PDF]]()
+    Presentación sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compressed-Sensing-SPC/PPT_SinglePixelCamera_Joaquin%20Farias.pdf)
  
