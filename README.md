@@ -39,3 +39,11 @@ Guía de algoritmos típicos de compresión de imágenes con códigos en Matlab.
     Informe sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-jpeg2000/Informe_JPEG2000_Joaquin%20Farias.pdf)
     
     Presentación sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-jpeg2000/PPT_JPEG2000_Joaquin%20Farias.pdf)
+    
+### Compressed sensing
+* Ejemplo de comppressed sensing con experimento Single Pixel Camera [[Codigo proximamamente...]]()
+    
+    Informe sobre proyecto. [[PDF]]()
+    
+    Presentación sobre proyecto. [[PDF]]()
+ 
