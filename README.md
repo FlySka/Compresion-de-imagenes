@@ -27,8 +27,8 @@ Guía de algoritmos típicos de compresión de imágenes con códigos en Matlab.
     Presentación sobre proyecto. [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-de-imagenes-piramide-laplaciana/PPT_laplaciana_Joaquin%20Farias.pdf).
     
 
-* Compresion de imagenes con transfomada del coseno y formato JPEG [[Matlab]]()
+* Compresion de imagenes con transfomada del coseno y formato JPEG [[Matlab]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-imagenes-JPEG/JPEG_JoaquinFarias.m)
     
-    Informe sobre proyecto [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-de-colores-con-kmeans/Informe_k-means.pdf).
+    Informe sobre proyecto [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-imagenes-JPEG/Informe_JPEG_Joaquin%20Farias.pdf).
     
-    Presentación sobre proyecto [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-de-colores-con-kmeans/PPT_kmeans.pdf).
+    Presentación sobre proyecto [[PDF]](https://github.com/FlySka/Compresion-de-imagenes/blob/main/Compresion-imagenes-JPEG/PPT_JPEG_Joaquin%20Farias.pdf).
