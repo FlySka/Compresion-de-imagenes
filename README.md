@@ -1,5 +1,6 @@
 # Compresion-de-imagenes
 Guía de algoritmos típicos de compresión de imágenes con códigos en Matlab. 
+
 Dentro de las carpetas de cada proyecto estan las funciones hechas para cada codigo principal, hay algunas dependencias de librerias externas como Imagen Processing.
 
 ## Indice
